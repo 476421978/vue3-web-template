@@ -4,7 +4,7 @@ vue3.2 开始支持`<script steup></script>` 语法糖
 
 UI 框架 ant-design-vue@next 支持 vue3
 
-在线预览地址：https://www.hlgshare.top
+在线预览地址：http://vue.hlgshare.top/login
 
 ## mock 模拟数据
 
